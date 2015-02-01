@@ -1,0 +1,97 @@
+/* 
+http://www.w3schools.com/css/default.asp
+*/
+
+html h1 {
+  margin: 0;
+}
+
+body {
+  font-size: 1.1em;
+  font-family: "Arvo", serif;
+  background-color: #DCFFE6
+}
+
+.container {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #68B29C;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+
+}
+
+.header {
+  margin: 20px;
+  font-family: "Anton", sans-serif;
+}
+ 	
+.page_heading {
+    margin-left: 20px;
+} 
+	
+.contact_information {
+    margin-left: 20px;
+}
+
+.validation_badge {
+  float: right;
+}
+
+.article {
+  margin: 20px;
+}
+
+.article_heading {
+  width: 600px;
+  margin-left: 20px;
+  padding: 10px;
+  border: 1px orange;
+  background-color: #FFBE84;
+
+}
+
+.article_content {
+  margin: 0 20px 0 20px;
+  padding: 10px;
+  border: 1px solid gray;
+  background-color: #ffffff;
+
+}
+
+.prompt_text {
+  font-size: 24px;
+  padding-left: 10px;
+  color: #000;
+}
+
+.form_field_table {
+  margin-left: 30px;
+  border: none;
+}
+
+.form_field_table td {color: #00f;}
+
+form {
+  color: #00f;
+}
+.buttons {
+  float: right;
+}
+
+.float_right {
+  float: right;
+}
+
+.footer {
+  font-size: .80em;
+  min-height: 40px;
+  text-align: center;
+  margin: 20px;
+
+}
+
+
+
