@@ -25,20 +25,17 @@ body {
 
 .header {
   margin: 20px;
-  font-family: "Anton", sans-serif;
+  font-family: "Arvo", sans-serif;
 }
  	
 .page_heading {
-    margin-left: 20px;
+    margin-right: 20px;
 } 
 	
 .contact_information {
     margin-left: 20px;
 }
 
-.validation_badge {
-  float: right;
-}
 
 .article {
   margin: 20px;
